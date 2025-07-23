@@ -123,7 +123,7 @@ const researchAreas = [
 
 ```
 ---
-## ` end } ;`
+## ` end all } ;`
 
 <div align="center"> 
   <!-- Footer Animation --> 
