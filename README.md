@@ -71,18 +71,25 @@ hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Lead
 
 ---
 
-## 📊 GitHub Analytics
+## `📊 GitHub Analytics() {`
 
 <div align="center">
   
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohmdumer&#x26;show_icons=true&#x26;theme=algolia&#x26;include_all_commits=true&#x26;count_private=true"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohmdumer&#x26;layout=compact&#x26;langs_count=8&#x26;theme=algolia">
 
 </div>
+---
+
+## `📈 contributionGraph() {`
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohmdumer&theme=algolia)](https://git.io/streak-stats)
+[![Umer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohmdumer&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+
 
 ---
