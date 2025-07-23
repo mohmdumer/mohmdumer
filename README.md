@@ -15,7 +15,7 @@
 
 ## `🚀 aboutMe() {`
 
-<img align="right" alt="AI Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="AI Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
 name: Muhammad Umer Naseem
@@ -24,5 +24,14 @@ current_status: Master's in Data Science @ FAST-NUCES (In Progress)
 education: ["BS Computer Science", "MS Data Science (In Progress)"]
 fields_of_interests: ["AI/ML", "NLP", "Computer Vision", "Medical AI", "MLOps"]
 currently_learning: ["Advanced NLP", "MLOps", "Research Methodologies", GenAI]
-2025_goals: ["Lead AI Research", "Contribute to Medical AI", "Master MLOps", "Publish Research"]
 hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Leadership"]
+```
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hmzi67](https://www.linkedin.com/in/m-umer-naseem/))
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadumernaseem01@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohmdumer)
+
+</div>
