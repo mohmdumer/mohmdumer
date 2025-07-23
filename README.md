@@ -89,7 +89,49 @@ hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Lead
 </div>
 
 ---
+## `🏆 achievements() {`
 
-
+🎖️ High Impact IT Training Program - Data Science, AI, and Blockchain (NAVTTC & NUST, 2024)<br>
+🎖️ Machine Learning with Python - IBM (2024)<br>
+🎖️ E-hunar Kamyab Jawan Program - ML, AI and Data Science (2023)<br>
+🎖️ Training Program in Data Science - NIIAIS (2023)<br>
+🎖️ Programming Essentials in Python - Virtual University (2023)<br>
 
 ---
+
+## `👥 leadership() {`
+
+🌟 Deputy Information Secretary - Computer Science Society FUUAST Islamabad<br>
+🌟 Python Lead - Google Developer Student Club FUUAST Islamabad<br>
+🎓 Research Scholar - FAST-NUCES (Current)<br>
+🔬 AI Research Community - Active contributor and mentor<br>
+
+---
+
+## `🎯 researchFocus() {`
+
+```javaScript
+const researchAreas = [
+    "🏥 Medical AI & Healthcare Applications",
+    "🔍 Federated Learning ", 
+    "🔤 Natural Language Processing",
+    "👁️ Computer Vision & Image Analysis",
+    "⚙️ MLOps & Production Machine Learning",
+    "🧠 Deep Learning & Neural Networks",
+    "📊 Statistical Analysis & Data Science"
+];
+
+```
+---
+## ` end } ;`
+
+<div align="center"> 
+  <!-- Footer Animation --> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+💖 thankYou() { // Thanks for visiting!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br>
+"Transforming data into intelligent solutions, one algorithm at a time" 🤖✨
+
+<em><b>I love connecting with fellow AI enthusiasts and researchers</b> so if you want to discuss AI, collaborate on projects, or just say <b>hi, I'll be happy to connect!</b> 😊</em>
+  
