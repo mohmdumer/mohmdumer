@@ -26,7 +26,8 @@ fields_of_interests: ["AI/ML", "NLP", "Computer Vision", "Medical AI", "MLOps"]
 currently_learning: ["Advanced NLP", "MLOps", "Research Methodologies", GenAI]
 hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Leadership"]
 ```
-## 🌐 Connect with Me
+---
+## `🌐 connect() {`
 
 <div align="center">
 
@@ -35,3 +36,18 @@ hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Lead
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/mohmdumer)
 
 </div>
+
+---
+## `🛠️ techStack() {`
+
+<div align="center">
+`💻 // Programming Languages`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+`🧠 // AI/ML Frameworks`
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FAD168?style=flat-square&logo=hugging-face&logoColor=black)
