@@ -20,8 +20,8 @@
 ```yaml
 name: Muhammad Umer Naseem
 located_in: Rawalpindi, Punjab, Pakistan
-current_status: Master's in Data Science @ FAST-NUCES (In Progress)
-education: ["BS Computer Science", "MS Data Science (In Progress)"]
+current_status: Master's in Data Science @ FAST-NUCES 
+education: ["BS Computer Science", "MS Data Science "]
 fields_of_interests: ["AI/ML", "NLP", "Computer Vision", "Medical AI", "MLOps"]
 currently_learning: ["Advanced NLP", "MLOps", "Research Methodologies", GenAI]
 hobbies: ["AI Research", "Building ML Models", "Reading Papers", "Community Leadership"]
